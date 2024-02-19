@@ -35,6 +35,8 @@ Above Circuit image is just for reference.
 3. Choose between Automatic and Manual modes.
 
 ### User Interface
+![Refernce Circuit](https://github.com/sunilkanaki17/SmartGlow-IoT-miniproject/blob/main/App_UI/SmartGlow_UI1.jpg)
+![Refernce Circuit](https://github.com/sunilkanaki17/SmartGlow-IoT-miniproject/blob/main/App_UI/SmartGlow_UI2.jpg)
 
 ## Usage
 
