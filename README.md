@@ -34,6 +34,7 @@ Above Circuit image is just for reference.
 2. Launch the app and connect it to your NodeMCU ESP8266.
 3. Choose between Automatic and Manual modes.
 
+### User Interface
 
 ## Usage
 
